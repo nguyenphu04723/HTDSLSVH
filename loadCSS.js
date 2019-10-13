@@ -1,0 +1,3 @@
+//<![CDATA[
+function loadCSS(e,t,o){"use strict";var s=window.document.createElement("link"),a=t||window.document.getElementsByTagName("script")[0];s.rel="stylesheet",s.href=e,s.media="only x",a.parentNode.insertBefore(s,a),setTimeout(function(){s.media=o||"all"})}loadCSS("https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");loadCSS("https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i&amp;amp;subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext,vietnamese");loadCSS("https://fonts.googleapis.com/css?family=Poppins:300,300i,400,400i,500,500i,600");
+//]]>
